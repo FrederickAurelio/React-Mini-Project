@@ -1,9 +1,10 @@
 # React-Mini-Project
-(Components, props, JSX)
+###(Components, props, JSX)
 - pizza-menu
-(useState and state management)
+###(useState and state management)
 - travel-list 
 - tab-steps-component
 - Accordion
 - Eat & Split Bill
-- Text Expander (Component, Reusability)
+###(Component, Composition, Reusability)
+- Text Expander 
