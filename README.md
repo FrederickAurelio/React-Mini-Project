@@ -1,6 +1,9 @@
 # React-Mini-Project
-- pizza-menu (Components, props, JSX)
-- travel-list (useState and state management)
+(Components, props, JSX)
+- pizza-menu
+(useState and state management)
+- travel-list 
 - tab-steps-component
 - Accordion
 - Eat & Split Bill
+- Text Expander (Component, Reusability)
