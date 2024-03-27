@@ -8,3 +8,4 @@
 - Eat & Split Bill
 ### (Component, Composition, Reusability)
 - Text Expander 
+- Star Rating
