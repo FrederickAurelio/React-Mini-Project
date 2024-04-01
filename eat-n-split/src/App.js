@@ -38,7 +38,7 @@ export default function App() {
         </button>
       </div>
       {activeUser && (
-        <SplitBillForm user={user} setDataUser={setDataUser} dataUser={dataUser} setActiveUser={setActiveUser} />
+        <SplitBillForm user={user} setDataUser={setDataUser} dataUser={dataUser} setActiveUser={setActiveUser} key={user.id}/>
       )}
     </div>
   )
