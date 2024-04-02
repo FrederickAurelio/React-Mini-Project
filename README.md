@@ -11,3 +11,4 @@
 - Star Rating
 ### (useEffect, data fetching, custom hooks)
 - usePopcorn
+- Currency-Exchange
