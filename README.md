@@ -9,3 +9,5 @@
 ### (Component, Composition, Reusability)
 - Text Expander 
 - Star Rating
+### (useEffect, data fetching, custom hooks)
+- usePopcorn
