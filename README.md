@@ -12,3 +12,5 @@
 ### (useEffect, data fetching, custom hooks)
 - usePopcorn
 - Currency-Exchange
+### (Old React Class components)
+- Classy Weather
