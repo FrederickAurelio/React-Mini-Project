@@ -14,3 +14,5 @@
 - Currency-Exchange
 ### (Old React Class components)
 - Classy Weather
+### (useReducer)
+- Quiz App
