@@ -16,3 +16,4 @@
 - Classy Weather
 ### (useReducer)
 - Quiz App
+- Bank Acc (useReducer practice)
