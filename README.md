@@ -19,3 +19,4 @@
 - Bank Acc (useReducer practice)
 ### (ContextAPI)
 - Atomic-Blog
+- Quiz App (ContextAPI + useReducer)
