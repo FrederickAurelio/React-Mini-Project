@@ -22,3 +22,5 @@
 - Quiz App (ContextAPI + useReducer)
 ### (useMemo, memo, useCallback)
 - Workout-Timer
+### (Old-Redux, Redux-Tool-Kit)
+- redux-intro
