@@ -24,5 +24,5 @@
 - Workout-Timer
 ### (Old-Redux, Redux-Tool-Kit)
 - redux-intro
-### (React Router 6.4, actions, loaders)
+### (React Router 6.23, actions, loaders)
 - react-router
