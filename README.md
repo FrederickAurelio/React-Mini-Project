@@ -26,3 +26,5 @@
 - redux-intro
 ### (React Router 6.4, actions, loaders)
 - react-router
+### (Higher Order Component & React render pattern)
+- render-pattern-hoc
