@@ -28,3 +28,5 @@
 - react-router
 ### (Higher Order Component & React render pattern)
 - render-pattern-hoc
+### (Compound Component Pattern)
+- compound-component-pattern
